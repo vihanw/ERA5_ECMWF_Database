@@ -1,4 +1,4 @@
-# The collection of scripts download Historical ERA5 data, ECMWF 10-day forecasts to create a continuous dataset for 2 years into the past
+The collection of scripts download Historical ERA5 data, ECMWF 10-day forecasts to create a continuous dataset for 2 years into the past
 
 ## Background and Requirements
 
